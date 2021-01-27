@@ -18,6 +18,14 @@ class MyApp extends StatelessWidget {
                 backgroundImage:
                     AssetImage('images/IMG_20190613_032849_066.jpg'),
               ),
+              Text(
+                'Prateek Aher',
+                style: TextStyle(
+                  fontSize: 30,
+                  color: Colors.white,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
             ],
           ),
         ),
